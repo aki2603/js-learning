@@ -19,7 +19,7 @@ function one(){
 
     function two(){
         const website = "youtube"
-        console.log(username);
+       // console.log(username);
     }
     // console.log(website);
 
@@ -52,7 +52,9 @@ function addone(num){
 
 
 
-addTwo(5)
+
+
 const addTwo = function(num){
     return num + 2
 }
+console.log(addTwo(5))
